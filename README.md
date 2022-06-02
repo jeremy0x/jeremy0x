@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/jeremiey">Jeremy<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/jeremiey">Jeremy<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" height="70px"/></h1>
 
 <!--
 **jeremiey/jeremiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
