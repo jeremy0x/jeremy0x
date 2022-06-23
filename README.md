@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Jeremy!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" height="60px" /></h1>
 
-### I'm a web developer and an intern at [Interllo](https://interllo.com).
+### I'm a web developer, an intern at [Interllo](https://interllo.com).
 
 - 🌍 I'm based in Oyo State, Nigeria.
 
