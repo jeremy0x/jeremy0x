@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Jeremy!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" height="60px" /></h1>
+## Hi there, I'm Jeremy!
 
 ### I'm a web developer, an intern at [Interllo](https://interllo.com).
 
@@ -61,9 +61,6 @@
 
 ### My GitHub Stats
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=jeremiey&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="jeremiey-stats" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiey&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="jeremiey-stats" />
 
-<!--
-**jeremiey/jeremiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+| <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&hide_border=true" alt="jeremiey-stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiey&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=en&layout=compact&hide_border=true" alt="jeremiey-stats" /> |
+| :---: | :---: |
