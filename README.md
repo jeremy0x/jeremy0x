@@ -8,7 +8,7 @@
 
 - 🚀 I'm proficient in using HTML, CSS and JavaScript.
 
-- 🔭 I'm also comfortable with using the React, NodeJMERN Stack for Develpment.
+- 🔭 I'm also comfortable with using the React, NodeJS and the MERN Stack for Develpment.
 
 - 🧠 I'm currently learning Django.
 
