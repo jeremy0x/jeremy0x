@@ -1,7 +1,7 @@
 ## Hi there, I'm <a href="https://linkedin.com/in/jeremiah-aworetan">Jeremy</a>!
 ### I'm a web developer, an intern at [Interllo](https://interllo.com).
 
-<img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width="200" height="200">
+<img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif'>
 
 
 - 🌍 I'm based in Oyo State, Nigeria.
