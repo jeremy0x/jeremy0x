@@ -71,5 +71,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&title_color=ff8000&text_color=ffffff&theme=dark&show_icons=true" alt="jeremiey's Github Stats" width="45%"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=dark" width="45%" alt="jeremiey's Github Streak">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiey&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%" alt="jeremiey's Top Languages">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiey&layout=compact&langs_count=7&theme=dark" width="40%" alt="jeremiey's Top Languages"/>
 </p>
