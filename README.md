@@ -3,14 +3,9 @@
 
 <img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='400px' height='400px' >
 
-
-- 🌍 I'm based in Oyo State, Nigeria.
-
 - 🚀 I'm proficient in using HTML, CSS and JavaScript.
 
 - 🔭 I'm also comfortable with using the React, NodeJS and the MERN Stack for Develpment.
-
-- 🧠 I'm currently learning Django.
 
 - 📫 You can reach me at [aworetanjeremiah@gmial.com](mailto:aworetanjeremiah@gmail.com).
 
@@ -25,7 +20,6 @@
 <a href="https://www.facebook.com/jeremiah.aworetan.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a href="http://www.instagram.com/stjeremey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a href="https://discord.com/users/jeremey#1400" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 5px;" /></a>
-
 
 ### My Skills 💪
 
@@ -57,9 +51,6 @@
 </a>
 <a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="margin-right: 5px;" />
-</a>
-<a title="Django" href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" style="margin-right: 5px;" />
 </a>
 <a title="git" href="https://git-scm.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="45" height="45" style="margin-right: 5px;" />
