@@ -1,7 +1,7 @@
 ## Hi there, I'm <a href="https://linkedin.com/in/jeremiah-aworetan">Jeremy</a>!
 ### I'm a web developer.
 
-<img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='400px' height='400px' >
+<img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='30%' height='30%' >
 
 - 🚀 I'm proficient in using HTML, CSS and JavaScript.
 
