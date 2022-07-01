@@ -1,5 +1,7 @@
 ## Hi there, I'm <a href="https://linkedin.com/in/jeremiah-aworetan">Jeremy</a>!
 
+<img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='50%' height='50%' >
+
 🚀 I'm a web developer proficient in using HTML, CSS and JavaScript for development.
 
 🔭 I often use React, NodeJS and the MERN Stack for Develpment.
@@ -8,17 +10,15 @@
 
 🤝 I'm open to collaborating on Front End Projects.
 
-<img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='50%' height='50%' >
-
-### My Social Presence 🌎
-
-<a href="https://www.github.com/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" style="margin-right: 5px;" /></a>
-<a href="https://hashnode.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" style="margin-right: 5px;" /></a>
-<a href="https://www.linkedin.com/in/jeremiah-aworetan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 5px;" /></a>
-<a href="https://www.twitter.com/stjerey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="margin-right: 5px;" /></a>
-<a href="https://www.facebook.com/jeremiah.aworetan.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 5px;" /></a>
-<a href="http://www.instagram.com/stjeremey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 5px;" /></a>
-<a href="https://discord.com/users/jeremey#1400" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="GitHub" href="https://www.github.com/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Replit" href="https://replit.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Codepen" href="https://codepen.io/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Hashnode" href="https://hashnode.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/jeremiah-aworetan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Twitter" href="https://www.twitter.com/stjerey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Facebook" href="https://www.facebook.com/jeremiah.aworetan.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Instagram" href="http://www.instagram.com/stjeremey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Discord" href="https://discord.com/users/jeremey#1400" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 
 <!-- ### My Skills 💪
 
@@ -55,16 +55,12 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="36" height="36" style="margin-right: 5px;" />
 </a> -->
 
-### My GitHub Stats 🏆
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=000000&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" width="45%"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=highcontrast&hide_border=true" width="45%" alt="jeremiey's Github Streak">
+  <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=highcontrast&hide_border=true" width="45%" alt="jeremiey's Github Streak"> -->
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jeremiey)
-
-
 
 <!--
 **jeremiey/jeremiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
