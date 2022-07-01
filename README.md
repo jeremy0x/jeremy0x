@@ -1,7 +1,5 @@
 ## Hi there, I'm <a href="https://linkedin.com/in/jeremiah-aworetan">Jeremy</a>!
 
-<img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='35%' height='35%' >
-
 🚀 I'm a web developer proficient in using HTML, CSS and JavaScript for development.
 
 🔭 I often use React, NodeJS and the MERN Stack for Develpment.
@@ -10,7 +8,7 @@
 
 🤝 I'm open to collaborating on Front End Projects.
 
----
+<img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='50%' height='50%' >
 
 ### My Social Presence 🌎
 
@@ -57,12 +55,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="36" height="36" style="margin-right: 5px;" />
 </a> -->
 
----
-
 ### My GitHub Stats 🏆
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=000000&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" width="45%"/>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=highcontrast&hide_border=true" width="45%" alt="jeremiey's Github Streak">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiey&title_color=ff8000&bg_color=000000&hide_border=true&layout=compact&langs_count=5&theme=dark" width="45%" alt="jeremiey's Top Languages"/>
 </p>
