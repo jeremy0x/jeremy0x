@@ -4,11 +4,11 @@
 
 🚀 I'm a web developer proficient in using HTML, CSS and JavaScript for development.
 
-🔭 I often use React, NodeJS and the MERN Stack for Develpment.
+🧰 I often use React, NodeJS and the MERN Stack for Develpment.
 
-📫 You can reach me at [aworetanjeremiah@gmial.com](mailto:aworetanjeremiah@gmail.com).
+📫 You can reach me at **[aworetanjeremiah@gmial.com](mailto:aworetanjeremiah@gmail.com)**.
 
-🤝 I'm open to collaborating on Front End Projects.
+**🤝 I'm open to collaborating on Front End Projects.**
 
 <a title="GitHub" href="https://www.github.com/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Replit" href="https://replit.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="32" height="32" style="margin-right: 5px;" /></a>
