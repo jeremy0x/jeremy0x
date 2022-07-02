@@ -19,6 +19,7 @@
 <a title="Facebook" href="https://www.facebook.com/jeremiah.aworetan.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Instagram" href="http://www.instagram.com/stjeremey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Discord" href="https://discord.com/users/jeremey#1400" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 5px;" /></a>
+<a title="Telegram" href="https://t.me/jeremiey" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/87664239/177016533-46ac9aed-ac50-407f-b91a-d04b09e647f3.png" width="32" height="32" style="margin-right: 5px;" /></a>
 
 <!-- ### My Skills 💪
 
