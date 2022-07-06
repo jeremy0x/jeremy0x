@@ -57,7 +57,8 @@
 </a> -->
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=000000&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=000000&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=highcontrast&hide_border=true" alt="jeremiey's github streak"  width="45%" />
   <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=highcontrast&hide_border=true" width="45%" alt="jeremiey's Github Streak"> -->
 </p>
 
