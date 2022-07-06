@@ -4,9 +4,9 @@
 
 🚀 I'm a web developer proficient in using HTML, CSS and JavaScript for development.
 
-🧰 I often use React, NodeJS and the MERN Stack for Develpment.
+🧰 I often use the MERN Stack for Develpment.
 
-📫 You can reach me at **[aworetanjeremiah@gmial.com](mailto:aworetanjeremiah@gmail.com)**.
+📫 You can reach me at **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
 
 **🤝 I'm open to collaborating on Front End Projects.**
 
