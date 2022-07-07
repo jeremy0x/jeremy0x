@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://linkedin.com/in/jeremiah-aworetan">Jeremy</a>!
+# Hi there, I'm <a href="https://linkedin.com/in/jeremiah-aworetan">Jeremy</a>!
 
 <img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='50%' height='50%' >
 
@@ -10,6 +10,8 @@
 
 **🤝 I'm open to collaborating on Front End Projects.**
 
+### Social Presence 🌍️
+
 <a title="GitHub" href="https://www.github.com/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Replit" href="https://replit.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Codepen" href="https://codepen.io/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" style="margin-right: 5px;" /></a>
@@ -19,9 +21,8 @@
 <a title="Facebook" href="https://www.facebook.com/jeremiah.aworetan.1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Discord" href="https://discord.com/users/jeremey#1400" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Telegram" href="https://t.me/jeremiey" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/87664239/177016533-46ac9aed-ac50-407f-b91a-d04b09e647f3.png" width="32" height="32" style="margin-right: 5px;" /></a>
-<a title="WhatsApp" href="https://wa.me/+2347042158996" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/87664239/177016652-6d538ed4-a67b-4806-86ab-46af7f7a3083.png" width="32" height="32" style="margin-right: 5px;" /></a>
 
-<!-- ### My Skills 💪
+### Skills 💪
 
 <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" style="margin-right: 5px;" />
@@ -54,12 +55,10 @@
 </a>
 <a title="git" href="https://git-scm.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="36" height="36" style="margin-right: 5px;" />
-</a> -->
+</a>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=000000&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=highcontrast&hide_border=true" alt="jeremiey's github streak"  width="45%" />
-  <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiey&theme=highcontrast&hide_border=true" width="45%" alt="jeremiey's Github Streak"> -->
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jeremiey)
