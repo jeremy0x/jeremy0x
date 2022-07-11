@@ -1,9 +1,5 @@
 ## Hi there, I'm <a href="https://linkedin.com/in/jeremiah-aworetan">Jeremy</a>!
 
-<!-- <img align='right' src='https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif' width='65%' height='65%' > -->
-
-<img align='right' src='https://user-images.githubusercontent.com/87664239/178374503-40656120-5b42-486d-b2c9-6c927fe59d39.png' >
-
 🚀 I'm a Web Developer.
 
 📫 You can reach me at **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
