@@ -19,7 +19,7 @@
 <a title="Telegram" href="https://t.me/jeremiey" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/87664239/177016533-46ac9aed-ac50-407f-b91a-d04b09e647f3.png" width="32" height="32" style="margin-right: 5px;" /></a>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=000000&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=000000&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jeremiey)
