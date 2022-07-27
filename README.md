@@ -8,7 +8,6 @@
 
 <!-- ### Social Presence 🌍️ -->
 
-<a title="GitHub" href="https://www.github.com/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Replit" href="https://replit.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Codepen" href="https://codepen.io/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Hashnode" href="https://hashnode.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" style="margin-right: 5px;" /></a>
