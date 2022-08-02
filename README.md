@@ -1,17 +1,13 @@
-<h1 align="center">
+<h1>
   Hi there, I'm Jeremy!
   <img src="assets/media/wave.gif" width="60px">
 </h1>
 
-<img align="right" src="assets/media/work-animation.gif" alt="work animation" width="40%">
-
-- 🚀 I'm a Web Developer.
+- 🚀 I'm a Front End Web Developer.
 
 - 📫 You can reach me at **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
 
 - 🤝 I'm open to collaborating on Front End Projects.
-
-<br>
 
 ## Skills 💪
 
@@ -29,8 +25,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="35" height="35" style="margin-right: 5px;" />
 </a>
 
-<br>
-
 ## Social Presence 🌍️
 
 <a title="Codepen" href="https://codepen.io/jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" style="margin-right: 5px;" /></a>
@@ -42,8 +36,6 @@
 <a title="Hashnode" href="https://hashnode.com/@jeremiey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Discord" href="https://discord.com/users/jeremiey#1400" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" style="margin-right: 5px;" /></a>
 <a title="Telegram" href="https://t.me/jeremiey" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/87664239/177016533-46ac9aed-ac50-407f-b91a-d04b09e647f3.png" width="32" height="32" style="margin-right: 5px;" /></a>
-
-<br>
 
 ## GitHub Stats 
 
