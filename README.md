@@ -9,7 +9,9 @@
 
 - 🤝 I'm open to collaborating on Frontend Projects.
 
-## Technologies
+##
+
+### Technologies
 
 <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="Javascript" style="margin-right: 5px;" />
@@ -23,9 +25,9 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="35" height="35" alt="Bootstrap" style="margin-right: 5px;" />
 <a title="git" href="https://git-scm.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="30" height="30" style="margin-right: 5px;" />
-</a>
+</a> 
 
-## GitHub Stats 
+##
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=0d1117&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" />
