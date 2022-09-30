@@ -1,9 +1,9 @@
-<h1>
+<h2>
   Hi there, I'm Jeremy!
-  <img src="assets/media/wave.gif" width="60px">
-</h1>
+  <img src="assets/media/wave.gif" width="50px">
+</h2>
 
-- 🚀 I'm a Frontend Web Developer.
+- 🚀 I'm a Frontend Web Developer and Open Source Contributor.
 
 - 📫 You can reach me at **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
 
@@ -11,7 +11,7 @@
 
 ##
 
-### Technologies
+### My Tools ⚒️
 
 <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="Javascript" style="margin-right: 5px;" />
@@ -22,15 +22,17 @@
 <a title="CSS" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="30" height="30" alt="CSS3" style="margin-right: 5px;" /></a>
 <a title="Bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="35" height="35" alt="Bootstrap" style="margin-right: 5px;" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="35" height="35" alt="Bootstrap" style="margin-right: 5px;" /></a>
 <a title="git" href="https://git-scm.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="30" height="30" style="margin-right: 5px;" />
-</a> 
+</a>
+<a title="React.js" href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="35" height="35" alt="React.js" style="margin-right: 5px;" /></a>
 
 ##
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremiey&bg_color=0d1117&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeremy0x&bg_color=0d1117&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=jeremiey)
