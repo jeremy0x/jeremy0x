@@ -1,10 +1,8 @@
 ### Hi there, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
 
-🚀 Frontend Developer and Open Source Contributor.
+Frontend Developer and Open Source Contributor.
 
-📫 You can reach me at **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
-
-###
+You can reach me at 📫 **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
 
 <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="Javascript" style="margin-right: 5px;" />
@@ -21,8 +19,9 @@
 </a>
 <a title="React.js" href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="35" height="35" alt="React.js" style="margin-right: 5px;" /></a>
-
-###
+  
+<br />
+<br />
 
 ![](https://komarev.com/ghpvc/?username=jeremiey)
 
