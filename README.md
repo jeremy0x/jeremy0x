@@ -1,17 +1,10 @@
-<h2>
-  Hi there, I'm Jeremy!
-  <img src="assets/media/wave.gif" width="50px">
-</h2>
+### Hi there, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
 
-- 🚀 I'm a Frontend Web Developer and Open Source Contributor.
+🚀 Frontend Developer and Open Source Contributor.
 
-- 📫 You can reach me at **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
+📫 You can reach me at **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
 
-- 🤝 I'm open to collaborating on Frontend Projects.
-
-##
-
-### My Tools ⚒️
+###
 
 <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="30" height="30" alt="Javascript" style="margin-right: 5px;" />
@@ -29,35 +22,9 @@
 <a title="React.js" href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="35" height="35" alt="React.js" style="margin-right: 5px;" /></a>
 
-##
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremy0x&bg_color=0d1117&hide_border=true&title_color=ff8000&theme=dark&show_icons=true" alt="jeremiey's Github Stats" />
-</p>
+###
 
 ![](https://komarev.com/ghpvc/?username=jeremiey)
-
-<!--
-<a title="Python" href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" style="margin-right: 5px;" />
-</a>
-<a title="React" href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="margin-right: 5px;" />
-</a>
-<a title="Sass" href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" style="margin-right: 5px;" />
-</a>
-</a>
-<a title="NodeJS" href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" style="margin-right: 5px;" />
-</a>
-<a title="ExpressJS" href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" style="margin-right: 5px;" />
-</a>
-<a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" style="margin-right: 5px;" />
-</a>
--->
 
 <!--
 **jeremiey/jeremiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
