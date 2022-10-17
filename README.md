@@ -23,7 +23,7 @@ You can reach me at 📫 **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=jeremiey)
+![](https://komarev.com/ghpvc/?username=jeremiey) [![wakatime](https://wakatime.com/badge/user/34a8dfd4-8b91-4537-979e-8c24b4c9b4b1.svg)](https://wakatime.com/@34a8dfd4-8b91-4537-979e-8c24b4c9b4b1)
 
 <!--
 **jeremiey/jeremiey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
