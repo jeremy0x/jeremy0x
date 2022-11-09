@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
 
-Frontend Developer and Open Source Contributor.
+Enthusiastic Frontend Developer eager to learn and convert coffee into code and colors!
 
 You can reach me at 📫 **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
 
