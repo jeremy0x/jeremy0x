@@ -21,7 +21,10 @@ Reach me at 📫 **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.co
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a title="git" href="https://git-scm.com" target="_blank" rel="noreferrer">
+<a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+  <img src="https://greensock.com/uploads/monthly_2020_03/tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" width="42" height="42" alt="gsap" />
+</a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="git" />
 </a>
 </p>
