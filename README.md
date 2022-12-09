@@ -1,6 +1,6 @@
 ## Hi there, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
 
-Frontend Developer converting coffee into code and colors!
+Frontend developer by day, code ninja by night. I turn coffee into code and make websites look like magic!
 
 Reach me at 📫 **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
 
