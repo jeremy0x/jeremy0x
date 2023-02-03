@@ -1,8 +1,16 @@
 ## Hi there, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
 
+[![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://dapoadedire.hashnode.dev)](https://jeremy0x.hashnode.dev) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremy0x)](https://www.linkedin.com/in/jeremy0x) [![Twitter Badge](https://img.shields.io/badge/-@jeremy0x__-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/jeremy0x_)](https://twitter.com/jeremy0x_)
+
 Frontend developer by day, code ninja by night. I turn coffee into code and make websites look like magic!
 
-Reach me at 📫 **[aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)**.
+I specialize in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://reactjs.org/), [SCSS](https://sass-lang.com/). I have a passion for creating dynamic and engaging user experiences that are both beautiful and functional, and my love for animation brings a new level of excitement to the user experience.
+
+I am always striving to stay up-to-date with the latest frontend technologies and trends, and I am eager to take on new challenges. I am currently learning [ThreeJS](https://threejs.org/), [TailwindCSS](https://tailwindcss.com/) and [NextJS](https://nextjs.org/).
+
+Reach me at [aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com). You can also find me on twitter [@jeremy0x_](https://twitter.com/jeremy0x_) and LinkedIn [@jeremy0x](https://linkedin.com/in/jeremy0x).
+
+Let's create something amazing together!
 
 ### Skills
 
