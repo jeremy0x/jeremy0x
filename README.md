@@ -14,6 +14,7 @@ Let's create something amazing together!
 
 ### Skills
 
+<!-- SKILLS:START -->
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,13 +37,11 @@ Let's create something amazing together!
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="git" />
 </a>
 </p>
+<!-- SKILLS:START -->
 
-<!--
-  
-<br />
-<br />
 
 ![](https://komarev.com/ghpvc/?username=jeremiey) [![wakatime](https://wakatime.com/badge/user/34a8dfd4-8b91-4537-979e-8c24b4c9b4b1.svg)](https://wakatime.com/@34a8dfd4-8b91-4537-979e-8c24b4c9b4b1)
 
+<!--
 **jeremy0x/jeremy0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
