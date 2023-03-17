@@ -33,10 +33,12 @@ Let's create something amazing together!
 | ------------- | ------------- |
 <!-- GITHUB_STATS:END -->
 
+<!--
 ### Top Repositories
 
 | <a href="https://github.com/jeremy0x/meta-tag-boilerplate"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremy0x&repo=meta-tag-boilerplate&theme=react&hide_border=true&text_color=b1b4b6&icon_color=8b949e&title_color=58a5fe" alt="Jeremy's github stats" /></a> | <a href="https://github.com/jeremy0x/foodie-fetch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremy0x&repo=foodie-fetch&theme=react&hide_border=true&text_color=b1b4b6&icon_color=8b949e&title_color=58a5fe" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | 
+-->
 
 ##
 
