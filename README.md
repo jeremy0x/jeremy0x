@@ -2,9 +2,9 @@
 
 Frontend developer by day, code ninja by night. I turn coffee into code and make websites look like magic!
 
-I specialize in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [SCSS](https://sass-lang.com/), [Tailwind CSS](https://tailwindcss.com) and [Bootstrap](https://getbootstrap.com/). I have a passion for creating dynamic and engaging user experiences that are both beautiful and functional, and my love for animation brings a new level of excitement to the user experience.
+I specialize in [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [SCSS](https://sass-lang.com/), [Tailwind CSS](https://tailwindcss.com) and [Bootstrap](https://getbootstrap.com/). 
 
-I am always striving to stay up-to-date with the latest frontend technologies and trends, and I am eager to take on new challenges. I am currently learning [GraphQL](https://graphql.org/), [NextJS](https://nextjs.org/) and [ThreeJS](https://threejs.org/).
+I have a passion for creating dynamic and engaging user experiences that are both beautiful and functional, and my love for animation brings a new level of excitement to the user experience.
 
 Reach me at [aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com). You can also find me on twitter [@jeremy0x_](https://twitter.com/jeremy0x_) and LinkedIn [@jeremy0x](https://linkedin.com/in/jeremy0x).
 
