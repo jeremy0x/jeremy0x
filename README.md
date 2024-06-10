@@ -5,31 +5,44 @@ Frontend developer specializing in React.js and Next.js. Passionate about crafti
 - Email: [aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)
 - Twitter: [@jeremy0x_](https://twitter.com/jeremy0x_)
 - LinkedIn: [@jeremy0x](https://linkedin.com/in/jeremy0x)
+- Website: [jeremy0x.tech](https://www.jeremy0x.tech)
 
-Let's build something amazing!
+Let's build something amazing together!
 
-##
+## Skills
 
 <!-- SKILLS:START -->
 <p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React.js" title="React.js" /></a>
+<a>&nbsp;</a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>
+<a>&nbsp;</a>
 <a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="36" height="36" alt="Remix JS" title="Remix JS" /></a>
+<a>&nbsp;</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+<a>&nbsp;</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a>
+<a>&nbsp;</a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
+<a>&nbsp;</a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
+<a>&nbsp;</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a>
+<a>&nbsp;</a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass" /></a>
+<a>&nbsp;</a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" /></a>
+<a>&nbsp;</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
+<a>&nbsp;</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
 </p>
 <!-- SKILLS:END -->
 
 <!-- GITHUB_STATS:START -->
-[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy0x&show_icons=true&include_all_commits=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy0x&hide_progress=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy0x&show_icons=true&include_all_commits=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&text_bold=false&title_color=58a5fe)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy0x&hide_progress=true&theme=react&hide_border=true&text_color=fefefe&icon_color=d4a418&title_color=58a5fe&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) 
+
 <!-- GITHUB_STATS:END -->
 
 ##
