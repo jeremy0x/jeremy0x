@@ -5,7 +5,7 @@ Frontend developer specializing in React.js and Next.js. Passionate about crafti
 - Email: [aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)
 - Twitter: [@jeremy0x_](https://twitter.com/jeremy0x_)
 - LinkedIn: [@jeremy0x](https://linkedin.com/in/jeremy0x)
-- Website: [jeremy0x.tech](https://www.jeremy0x.tech)
+- Website: [jeremy0x.codes](https://www.jeremy0x.codes)
 
 Let's build something amazing together!
 
