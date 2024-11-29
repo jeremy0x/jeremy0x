@@ -1,6 +1,10 @@
 ## Hi there, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
 
-Frontend developer specializing in React.js and Next.js. Passionate about crafting dynamic and engaging user experiences with sleek animations and functionality.
+Frontend developer with focus on React.js, Next.js and TypeScript.
+
+I create dynamic and engaging user experiences with sleek animations and functionality.
+
+Reach me via:
 
 - Email: [aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)
 - Twitter: [@jeremy0x_](https://twitter.com/jeremy0x_)
@@ -15,9 +19,9 @@ Let's build something amazing together!
 <p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React.js" title="React.js" /></a>
 <a>&nbsp;</a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>
 <a>&nbsp;</a>
-<a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" width="36" height="36" alt="Remix JS" title="Remix JS" /></a>
+<a href="https://remix.run/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix.svg" width="36" height="36" alt="Remix JS" title="Remix JS" /></a>
 <a>&nbsp;</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
 <a>&nbsp;</a>
@@ -33,9 +37,9 @@ Let's build something amazing together!
 <a>&nbsp;</a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>
 <a>&nbsp;</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="34" alt="Git" title="Git" /></a>
 <a>&nbsp;</a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="32" height="32" alt="Figma" title="Figma" /></a>
 </p>
 <!-- SKILLS:END -->
 
