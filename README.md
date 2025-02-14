@@ -2,12 +2,10 @@
 
 I build modern websites with React.js, Next.js, and TypeScript—enhanced by subtle animations for a smooth, engaging experience.
 
-### Connect with Me
+### Socials
 
-[![Email](https://img.shields.io/badge/Email-aworetanjeremiah%40gmail.com-003568)](mailto:aworetanjeremiah@gmail.com)
-[![X](https://img.shields.io/badge/X-@thejeremy0x-003568)](https://x.com/thejeremy0x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@jeremy0x-003568)](https://linkedin.com/in/jeremy0x)
-[![Website](https://img.shields.io/badge/Website-jeremy0x.codes-003568)](https://www.jeremy0x.codes)
+[![X](https://img.shields.io/badge/X-@thejeremy0x-0d61b2)](https://x.com/thejeremy0x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@jeremy0x-0d61b2)](https://linkedin.com/in/jeremy0x)
 
 ## Skills
 
