@@ -1,17 +1,13 @@
-## Hi there, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
+## Hello, I'm Jeremy! <img src="assets/media/wave.gif" width="50px">
 
-Frontend developer with focus on React.js, Next.js and TypeScript.
+I build modern websites with React.js, Next.js, and TypeScript—enhanced by subtle animations for a smooth, engaging experience.
 
-I create dynamic and engaging user experiences with sleek animations and functionality.
+### Connect with Me
 
-Reach me via:
-
-- Email: [aworetanjeremiah@gmail.com](mailto:aworetanjeremiah@gmail.com)
-- Twitter: [@jeremy0x_](https://twitter.com/jeremy0x_)
-- LinkedIn: [@jeremy0x](https://linkedin.com/in/jeremy0x)
-- Website: [jeremy0x.codes](https://www.jeremy0x.codes)
-
-Let's build something amazing together!
+[![Email](https://img.shields.io/badge/Email-aworetanjeremiah%40gmail.com-003568)](mailto:aworetanjeremiah@gmail.com)
+[![X](https://img.shields.io/badge/X-@thejeremy0x-003568)](https://x.com/thejeremy0x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@jeremy0x-003568)](https://linkedin.com/in/jeremy0x)
+[![Website](https://img.shields.io/badge/Website-jeremy0x.codes-003568)](https://www.jeremy0x.codes)
 
 ## Skills
 
@@ -33,12 +29,6 @@ Let's build something amazing together!
 <a>&nbsp;</a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a>
 <a>&nbsp;</a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass" /></a>
-<a>&nbsp;</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap" /></a>
-<a>&nbsp;</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="34" height="34" alt="Git" title="Git" /></a>
-<a>&nbsp;</a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="32" height="32" alt="Figma" title="Figma" /></a>
 </p>
 <!-- SKILLS:END -->
@@ -51,15 +41,7 @@ Let's build something amazing together!
 
 ##
 
-<a href="https://www.linkedin.com/in/jeremy0x" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" align="right" />
-</a>
-<a href="https://www.twitter.com/jeremy0x_" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" align="right" />
-</a>
-<a href="https://www.buymeacoffee.com/jeremy0x" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/support/buymeacoffee.svg" width="20" height="20" align="right" />
-</a>
+Let's build something amazing together!
 
 <!--
 **jeremy0x/jeremy0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
